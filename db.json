@@ -1,0 +1,139 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "flying Headphones",
+      "price": 59.99,
+      "category": "Electronics",
+      "brand": "SoundMax",
+      "stock": 25,
+      "rating": 4.5,
+      "description": "Comfortable wireless headphones with clear sound, deep bass, and a long-lasting battery for everyday use.",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "price": 89.99,
+      "category": "Electronics",
+      "brand": "KeyPro",
+      "stock": 18,
+      "rating": 4.7,
+      "description": "A durable mechanical keyboard with responsive keys, comfortable typing, and a clean modern design.",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+    },
+    {
+      "id": 3,
+      "name": "Classic Backpack",
+      "price": 45.5,
+      "category": "Fashion",
+      "brand": "UrbanPack",
+      "stock": 32,
+      "rating": 4.3,
+      "description": "A stylish and spacious backpack with multiple compartments for carrying books, laptops, and everyday essentials.",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62"
+    },
+    {
+      "id": 4,
+      "name": "Running Shoes",
+      "price": 74.99,
+      "category": "Sports",
+      "brand": "SpeedRun",
+      "stock": 20,
+      "rating": 4.6,
+      "description": "Lightweight running shoes designed with a comfortable sole and breathable material for everyday activities.",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+    },
+    {
+      "id": 5,
+      "name": "Smart Watch",
+      "price": 129.99,
+      "category": "Electronics",
+      "brand": "TechTime",
+      "stock": 15,
+      "rating": 4.4,
+      "description": "A modern smartwatch with fitness tracking, notifications, a bright display, and a long-lasting battery.",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30"
+    },
+    {
+      "id": 6,
+      "name": "Coffee Mug",
+      "price": 18.99,
+      "category": "Home",
+      "brand": "CozyHome",
+      "stock": 50,
+      "rating": 4.8,
+      "description": "A simple ceramic coffee mug with a comfortable handle, perfect for coffee, tea, and other hot drinks.",
+      "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcf93a"
+    }
+  ],
+
+  "books": [
+    {
+      "id": 1,
+      "title": "The Art of JavaScript",
+      "author": "Daniel Carter",
+      "price": 24.99,
+      "category": "Programming",
+      "rating": 4.7,
+      "pages": 320,
+      "description": "A beginner-friendly book that explains JavaScript fundamentals, functions, arrays, objects, and modern programming concepts.",
+      "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765"
+    },
+    {
+      "id": 2,
+      "title": "Mastering React",
+      "author": "Sarah Wilson",
+      "price": 32.5,
+      "category": "Web Development",
+      "rating": 4.8,
+      "pages": 410,
+      "description": "Learn how to build modern user interfaces with React using components, props, state, hooks, and reusable patterns.",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f"
+    },
+    {
+      "id": 3,
+      "title": "Java From Zero",
+      "author": "Michael Brown",
+      "price": 19.99,
+      "category": "Web Development",
+      "rating": 4.5,
+      "pages": 280,
+      "description": "A practical introduction to CSS covering selectors, box model, Flexbox, Grid, responsive design, and modern layouts.",
+      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794"
+    },
+    {
+      "id": 4,
+      "title": "TypeScript Essentials",
+      "author": "Alex Morgan",
+      "price": 29.99,
+      "category": "Programming",
+      "rating": 4.6,
+      "pages": 350,
+      "description": "Understand TypeScript types, interfaces, generics, functions, and how to write safer JavaScript applications.",
+      "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d"
+    },
+    {
+      "id": 5,
+      "title": "The Web Developer Guide",
+      "author": "Emma Davis",
+      "price": 27.5,
+      "category": "Web Development",
+      "rating": 4.4,
+      "pages": 390,
+      "description": "A practical guide to HTML, CSS, JavaScript, responsive design, APIs, and the fundamentals of modern web development.",
+      "image": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da"
+    },
+    {
+      "id": 6,
+      "title": "Next.js in Practice",
+      "author": "Ryan Miller",
+      "price": 34.99,
+      "category": "Next.js",
+      "rating": 4.8,
+      "pages": 430,
+      "description": "Explore Next.js concepts including routing, layouts, server components, data fetching, and building full-stack applications.",
+      "image": "https://images.unsplash.com/photo-1519682337058-a94d519337bc"
+    }
+  ]
+}
